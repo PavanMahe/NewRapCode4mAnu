@@ -1,0 +1,6 @@
+@EndUserText.label: 'SERVICE DES'
+define service ZATS_XX_SLS_SD {
+  expose ZI_ATS_XX_BPA        as BusinessPartner;
+  expose ZI_ATS_XX_SALES_CUBE as SalesCube;
+  expose ZI_ATS_XX_PRODUCT    as ProductSet;
+}

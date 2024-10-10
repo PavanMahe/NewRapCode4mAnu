@@ -1,0 +1,5 @@
+CLASS zbp_ats_x_u_travel DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zats_x_u_travel.
+ENDCLASS.
+
+CLASS zbp_ats_x_u_travel IMPLEMENTATION.
+ENDCLASS.
